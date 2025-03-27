@@ -1,11 +1,11 @@
 # React + Vite
 
 ## AULA 1
-### Criação da aplicação\
+### Criação da aplicação
 
 abrir o prompt de comando\
 executar o comando dentro de uma pasta sua:\
-npm create vite@latest meu-projeto -- --template react \
+npm create vite@latest meu-projeto -- --template react  
   
 para executar tem que entrar na pasta: \
 cd meu-projeto  \
@@ -14,7 +14,7 @@ depois executar o comando:\
 npm install\
 code . \
 npm run dev \
-\
+
 ## AULA 2
 Criação de componentes  
 
